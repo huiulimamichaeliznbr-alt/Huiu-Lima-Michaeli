@@ -1,0 +1,6 @@
+{
+  "name": "Gerador de Fotos IA",
+  "description": "Geração instantânea de 50 fotos 9:16 de qualquer tipo com postagem direta em redes sociais (Instagram, WhatsApp, TikTok, X), download em alta qualidade e galeria no dispositivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
